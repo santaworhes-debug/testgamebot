@@ -2,3 +2,4 @@ python-telegram-bot==21.3
 aiofiles==23.2.1
 ujson==5.9.0
 redis==5.0.8
+aiosqlite
